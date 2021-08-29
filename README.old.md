@@ -12,7 +12,8 @@
 
 5. npm install --save prop-types
 
-6. @import-normalize; - в файл index.css
+6. @import-normalize; - в файл index.
+   6.1 npm i modern-normalize
 
 7. deploy on Netlify
 
